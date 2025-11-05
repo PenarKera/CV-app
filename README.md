@@ -8,3 +8,5 @@ git clone https://github.com/PenarKera/CV-app.git
 cd CV-StaticPage
 npm install
 npx expo start
+
+Open with Expo Go on your phone.
